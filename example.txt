@@ -1,4 +1,4 @@
-a = input
+n = input
 i = 0
 :label
 output i
