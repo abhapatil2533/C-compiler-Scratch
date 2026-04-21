@@ -1,2 +1,2 @@
 # C-compiler-Scratch
-Building a custom compiler that translates C code into a format the computer can understand.  Concepts and tools used until now : C , Lexical Analysis (breaking code into parts), Parsing.
+Developed a custom C compiler from scratch using C, covering lexical analysis, parsing, and assembly. The compiler converts C code into assembly instructions while ensuring correct program structure and execution.
