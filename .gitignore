@@ -1,2 +1,6 @@
-ds.h
+
 .vscode/
+*.exe
+*.asm
+
+
